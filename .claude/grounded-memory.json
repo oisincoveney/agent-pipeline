@@ -1,0 +1,31 @@
+{
+  "version": 2,
+  "loopPatterns": {
+    "75ad7f9f": {
+      "preview": "Bash({\"command\":\"cat > /Users/oisin/dev/oisin-pipeline/mise.toml )",
+      "count": 1,
+      "lastSeen": 1779315394029
+    },
+    "ac990ce4": {
+      "preview": "Bash({\"command\":\"cat > /Users/oisin/dev/oisin-pipeline/vitest.con)",
+      "count": 1,
+      "lastSeen": 1779315397800
+    },
+    "e290eac8": {
+      "preview": "Bash({\"command\":\"cat tsconfig.json | sed 's|\\\"src/\\\\*\\\\*/\\\\*\\\"|\\\")",
+      "count": 1,
+      "lastSeen": 1779315406966
+    },
+    "bf3a7987": {
+      "preview": "Bash({\"command\":\"mkdir -p .pipeline/knowledge .pipeline/worktrees)",
+      "count": 1,
+      "lastSeen": 1779315410386
+    },
+    "2d56766a": {
+      "preview": "Bash({\"command\":\"bun run typecheck 2>&1\",\"description\":\"Verify ty)",
+      "count": 1,
+      "lastSeen": 1779315414321
+    }
+  },
+  "editErrors": {}
+}
